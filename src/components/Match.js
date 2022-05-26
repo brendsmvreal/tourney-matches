@@ -1,5 +1,3 @@
-import React from "react"; //optional
-
 function Match(props) {
   return (
     <article className="Match">

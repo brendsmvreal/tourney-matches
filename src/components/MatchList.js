@@ -1,5 +1,5 @@
-import matchData from '../data/matchData';
 import Match from "./Match";
+const oneMatch = props.matchData[0];
 
 function MatchList(props) {
 

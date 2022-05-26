@@ -1,4 +1,3 @@
-import React from "react"; //optional
 
 function Player (props) {
   return (
