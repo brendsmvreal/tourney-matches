@@ -1,4 +1,4 @@
-import React from "react"; //optional
+import matchData from '../data/matchData';
 import Match from "./Match";
 
 function MatchList() {
